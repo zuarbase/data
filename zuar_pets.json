@@ -67,5 +67,27 @@
                 }
             }
         ]
+    },
+    {
+        "id": 6,
+        "name": "Greg Rossi",
+        "pets": [
+            {
+                "id": 1,
+                "name": "Yuki",
+                "pet": {
+                    "type": "cat",
+                    "breed": "Lynx Point"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Lemon",
+                "pet": {
+                    "type": "cat",
+                    "breed": "Tuxedo"
+                }
+            }
+        ]
     }
 ]

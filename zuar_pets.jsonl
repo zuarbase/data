@@ -3,3 +3,4 @@
 {"id":3,"name":"Ben","pets":[{"id":3,"name":"Zuca","pet":{"type":"dog","breed":"Cavapoo"}}]}
 {"id":4,"name":"Andy","pets":[{"id":4,"name":"Pepper","pet":{"type":"dog","breed":"mutt"}}]}
 {"id":5,"name":"Kenneth","pets":[{"id":5,"name":"Gracie","pet":{"type":"dog","breed":"Golden"}}]}
+{"id":6,"name":"Greg Rossi","pets":[{"id":1,"name":"Yuki","pet":{"type":"cat","breed":"Lynx Point"}},{"id":2,"name":"Lemon","pet":{"type":"cat","breed":"Tuxedo"}}]}
