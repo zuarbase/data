@@ -1,0 +1,44 @@
+[
+  {
+    "amount": 500.00,
+    "customer": {
+      "id": 1,
+      "name": "Customer A"
+    },
+    "id": 1,
+    "invoice_lines": [
+      {
+        "amount": 200.00,
+        "id": 1,
+        "product": "A"
+      },
+      {
+        "amount": 300.00,
+        "id": 2,
+        "product": "B"
+      }
+    ],
+    "invoice_number": 1001
+  },
+  {
+    "amount": 240.00,
+    "customer": {
+      "id": 1,
+      "name": "Customer B"
+    },
+    "id": 2,
+    "invoice_lines": [
+      {
+        "amount": 200.00,
+        "id": 1,
+        "product": "A"
+      },
+      {
+        "amount": 40.00,
+        "id": 2,
+        "product": "C"
+      }
+    ],
+    "invoice_number": 1002
+  }
+]

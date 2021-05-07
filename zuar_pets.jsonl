@@ -1,0 +1,3 @@
+{"id":1,"name":"Justin","pets":[{"id":1,"name":"Bear","pet":{"type":"dog","breed":"Goldendoodle"}},{"id":2,"name":"Birdie","pet":{"type":"dog","breed":"Goldendoodle"}}]}
+{"id":2,"name":"Matt","pets":[]}
+{"id":3,"name":"Ben","pets":[{"id":3,"name":"Zuca","pet":{"type":"dog","breed":"Cavapoo"}}]}
